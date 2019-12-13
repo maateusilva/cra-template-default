@@ -1,0 +1,26 @@
+{
+  "name": "cra-template-default",
+  "version": "0.0.1",
+  "description": "Full featured template to create a scalable react application",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maateusilva/cra-template-default.git"
+  },
+  "keywords": [
+    "react",
+    "template",
+    "cra",
+    "cra-template"
+  ],
+  "author": "Mateus Silva <mateusilva.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maateusilva/cra-template-default/issues"
+  },
+  "homepage": "https://github.com/maateusilva/cra-template-default#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
