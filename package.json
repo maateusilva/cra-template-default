@@ -1,6 +1,6 @@
 {
   "name": "cra-template-default",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Full featured template to create a scalable react application",
   "main": "template.json",
   "repository": {
