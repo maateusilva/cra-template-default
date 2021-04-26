@@ -1,6 +1,6 @@
 # cra-template-default
 
-As CRA templates doesn't support `devDependencies` by default, add this node to your `package.json` file and run `npm install` or `yarn install`:
+As CRA templates don't support `devDependencies` by default, add this node to your `package.json` file and run `npm install` or `yarn install`:
 ```json
 "devDependencies": {
   "eslint": "^6.7.2",
